@@ -11,8 +11,8 @@
     tools:context="com.example.sac.myfirstapp.MainActivity">
 
     <TextView
-        android:id="@+id/firstActivity"
+        android:id="@+id/secondActivity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World, Again" />
 </RelativeLayout>
